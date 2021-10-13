@@ -1,0 +1,3 @@
+solver.py用于训练和验证 play.py用于测试
+运行需要从pypi安装pycuber模块
+由于solver.py代码调用了部分模型 新运行可能要修改部分语句
